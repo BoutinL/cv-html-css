@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 800;
+}
+
+h2 {
+    color: rgb(255,160,122);
+    font-weight: 800;
+}
+
+h3 {
+    color: rgb(255,160,122);
+    font-weight: 750;
+
+}
+
+h5 {
+    color:rgb(134,134,134);
+    font-weight: 450;
+
+    
+}
+
+h6 {
+    color: rgb(255, 255, 255);
+    font-weight: 450;
+}
+
+.colonne-gauche {
+    background-color:rgb(134, 134, 134);
+    height:100%px;
+}
+
+.colonne-droite {
+    background-color: rgb(255, 255, 255);
+    height: 100%px;
+}
