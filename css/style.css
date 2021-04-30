@@ -37,3 +37,44 @@ h6 {
     background-color: rgb(255, 255, 255);
     height: 100%px;
 }
+
+.rectangle {
+    height: 60px;
+    width: 10%px;
+    background-color:rgb(134, 134, 134);
+  }
+
+  .rectangle2 {
+    height: 60px;
+    width: 10%px;
+    background-color:rgb(255, 255, 255);
+  }
+
+
+  .rectangle3 {
+    height: 60px;
+    width: 270px;
+    background-color:rgb(255,160,122);
+  }
+
+  .rectangle4 {
+    height: 60px;
+    width: 210px;
+    background-color:rgb(255,160,122);
+  }
+
+  footer{
+
+    background:#ccc;
+    
+    position:absolute;
+    
+    bottom:0;
+    
+    width:100%;
+    
+    padding-top:50px;
+    
+    height:50px;
+    
+    }
